@@ -1,7 +1,7 @@
-## UI UX Designer e Dev Front-end 🖥️
-- 🔭 Sou designer gráfico por formação, tenho MBA em design estratégico
-- Estudo programação web com foca em front-end
-- Utilizo as linguagens Javascript, HTML s CSS
+## UI UX Designer 🔭 e Dev Front-end 🖥️
+- Sou designer gráfico por formação e tenho MBA em design estratégico
+- Estudo programação web com foco em front-end
+- Utilizo as linguagens Javascript, HTML e CSS
 - Frameworks React.JS, Boostrap e jQuery.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marciomedeiros88)](https://github.com/marciomedeiros88)
