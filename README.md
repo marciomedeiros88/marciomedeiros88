@@ -1,5 +1,11 @@
 ## Hi there 👋
+- 🔭 Sou designer gráfico por formação, tenho MBA em design estratégico
+- Estudo programação web com foca em front-end
+- Utilizo as linguagens Javascript, HTML s CSS
+- Frameworks React.JS, Boostrap e jQuery.
+- 
 
+- 
 <!--
 **marciomedeiros88/marciomedeiros88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
